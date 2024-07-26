@@ -1,0 +1,1 @@
+x = 4; y = 6; summation = x + y; print(summation)
